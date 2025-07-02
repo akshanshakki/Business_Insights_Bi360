@@ -1,5 +1,6 @@
 # Business_Insights_Bi360
 Power Bi Project
+![Capture12](https://github.com/user-attachments/assets/41907062-eb9c-4409-9a3c-11d9979e1d7e)
 
 **🤔𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭:** AtliqQ Hardware, like many other businesses, faced significant losses in Latin America due to Excel-based analytics. To address this issue, the company's senior executives decided to invest in a data analytics project, utilizing data from the previous year to enhance performance and decision-making.
 

@@ -18,14 +18,23 @@ Power Bi Project
 
 👨🏻‍💼𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰: An essential section tailored for executives, delivering crucial metrics, revenue contributions, trend charts, and detailed tables.
 
+
 𝐋𝐞𝐚𝐫𝐧𝐞𝐝 𝐓𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤𝐬📚
 
+
 ➡️ SQL
+
 ➡️ PowerBi Desktop
+
 ➡️ Excel
+
 ➡️ DAX language
+
 ➡️ DAX studio (for optimizing the report)
+
 ➡️ Project charter file
+
+
 𝐋𝐞𝐚𝐫𝐧𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐁𝐈 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬📊💡
 
 ➡️ Creating calculated columns.

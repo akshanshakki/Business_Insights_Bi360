@@ -20,12 +20,18 @@ Power Bi Project
 
 
 𝐋𝐞𝐚𝐫𝐧𝐞𝐝 𝐓𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤𝐬📚
-•➡️ SQL
-•➡️ PowerBi Desktop
-•➡️ Excel
-•➡️ DAX language
-•➡️ DAX studio (for optimizing the report)
-•➡️ Project charter file
+
+➡️ SQL
+
+➡️ PowerBi Desktop
+
+➡️ Excel
+
+➡️ DAX language
+
+➡️ DAX studio (for optimizing the report)
+
+➡️ Project charter file
 
 𝐋𝐞𝐚𝐫𝐧𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐁𝐈 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬📊💡
 •➡️ Creating calculated columns.

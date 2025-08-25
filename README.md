@@ -4,7 +4,7 @@ Power Bi Project
 
 **🤔𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭:** AtliqQ Hardware, like many other businesses, faced significant losses in Latin America due to Excel-based analytics. To address this issue, the company's senior executives decided to invest in a data analytics project, utilizing data from the previous year to enhance performance and decision-making.
 
-**𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmFiMjkzZGUtNjUzMy00M2E5LThiZGMtYzcyMjc2NzJjZWQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+**𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWM2ZmIyOWYtMTVhZS00OWMwLTk0ZjEtZmM2YTYwYzNiNDM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 
 **🌟𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬🌟**
